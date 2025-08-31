@@ -1,0 +1,10 @@
+{
+    "Nombres": "Juan",
+    "Apellido": "Pérez",
+    "Telefono": "3511234567",
+    "DNI": "13456782",
+    "Provincia": "Buenos Aires",
+    "Localidad": "La Plata",
+    "email": "juan.perez@example.com",
+    "password": "Password123*"
+}
